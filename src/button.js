@@ -17,7 +17,7 @@ const button_descriptions = {
 
     week9 : "Introduction to HTML & CSS. The goal is to use this information to create a personal portfolio that they can host on GitHub pages down the road for potential recruiters and internships.",
 
-    week10 : "Here we’d learn more intermediate HTML and CSS concepts to help strengthen the students' knowledge. We’d demonstrate this further with sample projects that are guided by Staff and students alike.",
+    week10 : "This week's session on Intermediate Web Development covered JavaScript fundamentals and introduced key concepts like event handlers, the DOM, and asynchronous JavaScript. Attached is the <a href='https://1drv.ms/p/c/b084cb285fd01924/EfHJkNjaFXhNj63XiC0Bdv4BS-ToC1G7w4SNKUdwt5rMQA?e=hiJnB9'>PowerPoint<a/> from our meeting, and here’s the <a href='https://github.com/SJC-CS-Club/Halloween_Store' target='_blank'>GitHub Link<a/> to our Spooky Mock E-Commerce Site, showcasing JavaScript in action! Feel free to clone the repository and experiment with making the site your own!",
 
     week11 : "The students will use their knowledge of HTML, & CSS to start working on building a personal portfolio that will be hosted on Github pages. It would be peer-reviewed by other students and think about how to design it. Students are encouraged to work on it outside of the club.",
 
