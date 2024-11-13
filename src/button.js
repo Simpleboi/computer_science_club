@@ -21,7 +21,7 @@ const button_descriptions = {
 
     week11 : "The students will use their knowledge of HTML, & CSS to start working on building a personal portfolio that will be hosted on Github pages. It would be peer-reviewed by other students and think about how to design it. Students are encouraged to work on it outside of the club.",
 
-    week12 : "Have the students continue working on their personal portfolios and advance their HTML & CSS skills further while doing so.",
+    week12 : "The students used thier knowledge of GitHub pages to host thier personal portfolio live on the internet! Here is the <a href='https://1drv.ms/p/c/b084cb285fd01924/ETNDUw7zHZNOg4U680AYydQBCzimazUzPVxb_qHGUEfeeA?e=0yqn5D'>PowerPoint</a> link to those who may have missed it for getting set up with GitHub pages! Also here is the link to the <a href='https://github.com/SJC-CS-Club/Portfolio_Template'>GitHub Repo<a/> for a sample personal portfolio template in case you need a starting point!",
 
     week13 : "Similar to last semester, We’d have students pair up in 2’s and build some projects to be displayed and judged by judges.",
 
